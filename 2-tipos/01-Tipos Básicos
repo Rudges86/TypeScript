@@ -1,0 +1,7 @@
+let nome:string = "João";
+let numero:number = 15;
+let boleano :boolean = false;
+
+
+//array
+let hobbies: number[] = [1,2,3,4,5]
